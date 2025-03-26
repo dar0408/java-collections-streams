@@ -1,0 +1,9 @@
+-------------------------
+Name: rohit
+Age: 67
+Favorite Language: c++
+-------------------------
+Name: vicky
+Age: 34
+Favorite Language: java
+-------------------------
